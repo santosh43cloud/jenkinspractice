@@ -1,0 +1,12 @@
+C:\Users\santo\.jenkins\secrets\initialAdminPassword
+
+e0a19bd092e642a688f6e5e5e275cc2a
+
+Jenkins:
+username: santosh
+password : Santosh@1234
+
+
+Git Hub:
+santosh43cloud
+San@pre123456
